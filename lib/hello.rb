@@ -1,6 +1,5 @@
-def hello_t(names) {|name| puts name}
-  names.each do |name|
-end
+def hello_t
+  
 end
 
 # call your method here!
